@@ -1,3 +1,9 @@
+body{
+
+}
+.header{
+
+}
 .bg-net{
   background-image: url(https://image.shutterstock.com/image-photo/volleyball-spike-hand-block-over-260nw-628377176.jpg);
   height: 120vh;
@@ -10,10 +16,87 @@ background-size: cover;
  
 .quote{
   font-size: 20px;
+  height: 150px;
+  width: 500px;
+  
 }
 .video{
   border-radius: 50px;
   border-color: rgb(160, 151, 151);
   border-width: thick;
   box-shadow: 13px 13px 20px rgb(46, 46, 95);
+}
+.card-body{
+  background-color: gold;
+  box-shadow:2px 2px 5px black;
+
+
+
+}
+.card-img{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  padding: 0px;
+  margin-left: 35px;
+  margin-bottom: 25px;
+  margin-top: 75px;
+  box-shadow:2px 2px 5px black;
+}
+.card.text{
+
+}
+.bg-cardrow{
+  background-color: rgba(14, 13, 13, 0.432);
+ 
+}
+.card{
+  background-color: rgba(255, 217, 0, 0);
+  border: gold;
+  
+}
+.btn{
+  box-shadow: 2px 2px 5px black;
+}
+.br{
+  background-color: rgb(19, 20, 20);
+  height: 3px;
+}
+
+.para{
+ width: 500px;
+ height: 500px;
+  text-align: left;
+font-size: 20px;
+  text-align: center;
+  padding-top: 150px;
+  padding-right: 12px;
+  
+
+  
+}
+.imgQ{
+  height: 520px;
+  width: 600px;
+ align-items: center;
+ border-radius: 25px;
+ box-shadow:2px 2px 5px black ;
+}
+.logo{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0.288);
+ margin: 0px;
+ box-shadow:12px 12px 20px blue, 12px 12px 10px rgb(236, 121, 13)  ;
+
+}
+.row3{
+  background-color: black;
+ 
+
+}
+.footer{
+
 }
