@@ -1,0 +1,13 @@
+.bg-net{
+  background-image: url(https://image.shutterstock.com/image-photo/volleyball-spike-hand-block-over-260nw-628377176.jpg);
+  height: 120vh;
+background-size: cover;
+}
+.info{
+  background-color: rgba(47, 17, 59, 0.288);
+  height: 80vh;
+}
+ 
+.quote{
+  font-size: 20px;
+}
