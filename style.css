@@ -1,16 +1,19 @@
 body{
+  background-color: rgb(28, 6, 56);
 
 }
-.header{
-
+.top{
+  font-size: 15px;
+  
 }
+
 .bg-net{
   background-image: url(https://image.shutterstock.com/image-photo/volleyball-spike-hand-block-over-260nw-628377176.jpg);
   height: 120vh;
 background-size: cover;
 }
 .info{
-  background-color: rgba(47, 17, 59, 0.288);
+  background-color: rgba(42, 8, 75, 0.288);
   height: 80vh;
 }
  
@@ -32,13 +35,14 @@ background-size: cover;
 
 
 
+
 }
 .card-img{
   border-radius: 50%;
-  height: 200px;
-  width: 200px;
+  height: 275px;
+  width: 275px;
   padding: 0px;
-  margin-left: 35px;
+  margin-left: 6px;
   margin-bottom: 25px;
   margin-top: 75px;
   box-shadow:2px 2px 5px black;
@@ -57,10 +61,13 @@ background-size: cover;
 }
 .btn{
   box-shadow: 2px 2px 5px black;
+  margin:auto;
 }
 .br{
-  background-color: rgb(19, 20, 20);
+  background-color: rgb(235, 10, 21);
   height: 3px;
+
+  margin: 0px;
 }
 
 .para{
@@ -71,6 +78,7 @@ font-size: 20px;
   text-align: center;
   padding-top: 150px;
   padding-right: 12px;
+  color: aliceblue;
   
 
   
