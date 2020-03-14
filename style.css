@@ -31,7 +31,7 @@ background-size: cover;
 }
 .card-body{
   background-color: gold;
-  box-shadow:2px 2px 5px black;
+  box-shadow:2px 2px 5px rgb(87, 3, 243);
 
 
 
@@ -39,13 +39,14 @@ background-size: cover;
 }
 .card-img{
   border-radius: 50%;
-  height: 275px;
-  width: 275px;
+  height: 280px;
+  width: 280px;
   padding: 0px;
   margin-left: 6px;
   margin-bottom: 25px;
   margin-top: 75px;
-  box-shadow:2px 2px 5px black;
+  box-shadow:2px 2px 5px rgb(11, 7, 238);
+  
 }
 .card.text{
 
@@ -88,7 +89,7 @@ font-size: 20px;
   width: 600px;
  align-items: center;
  border-radius: 25px;
- box-shadow:2px 2px 5px black ;
+ box-shadow:5px 5px 10px rgb(40, 6, 236) ;
 }
 .logo{
   height: 150px;
@@ -106,5 +107,6 @@ font-size: 20px;
 
 }
 .footer{
+  
 
 }
